@@ -1,4 +1,4 @@
-# Hello-World-PS3 by FrontendTitan
+# Rock-Paper-Scissors-PS3 by FrontendTitan
 
 ## How to install on a PS3:
 
