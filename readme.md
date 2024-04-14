@@ -1,3 +1,4 @@
+# ⚠️ WARNING!!! THIS APP COULD "TEMPORARILY BRICK YOUR CONSOLE"
 # Rock-Paper-Scissors-PS3 by FrontendTitan
 
 ## How to install on a PS3:
