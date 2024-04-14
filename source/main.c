@@ -160,19 +160,19 @@ void displayInstructions(float x)
     DrawString(x, 0, "Welcome to Rock Paper Scissors!");
 
     // Set font color for Square (Rock)
-    SetFontColor(0xFFC0CBFF, 0x0); // Light Pink
+    // SetFontColor(0xFFC0CBFF, 0x0); // Light Pink
     DrawString(x, 40, "Square = Rock");
 
     // Set font color for Triangle (Paper)
-    SetFontColor(0x008000FF, 0x0); // Dark Green
+    // SetFontColor(0x008000FF, 0x0); // Dark Green
     DrawString(x, 80, "Triangle = Paper");
 
     // Set font color for Circle (Scissors)
-    SetFontColor(0xDC143CFF, 0x0); // Crimson Red
+    // SetFontColor(0xDC143CFF, 0x0); // Crimson Red
     DrawString(x, 120, "Circle = Scissors");
 
     // Set font color to white for subsequent drawings
-    SetFontColor(0xFFFFFFFF, 0x0); // White
+    // SetFontColor(0xFFFFFFFF, 0x0); // White
 }
 
 void drawScene()
